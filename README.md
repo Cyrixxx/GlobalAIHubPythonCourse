@@ -1,9 +1,10 @@
-Course Date: DD.MM.YYYY
-Name: Hakan
-Surname: İleri
-Email: hakan.ileri@outlook.com.tr
+# GAIH Student Repo Example
+![](img/newlogo.png)
 
-Note: Your homeworks can be formats like ".ipynb" and ".py". Not ".txt" files!! Make sure that your codes works.
+**Course Date:** DD.MM.YYYY  
+**Name:** Mert  
+**Surname:** Cobanov  
+**Email:** mertcobanov@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
@@ -20,4 +21,3 @@ Some python libraries
 
 ### Certification
 ![](img/TopLearnerCertificate.png)
-
