@@ -1,4 +1,9 @@
+Course Date: DD.MM.YYYY
+Name: Hakan
+Surname: İleri
+Email: hakan.ileri@outlook.com.tr
 
+Note: Your homeworks can be formats like ".ipynb" and ".py". Not ".txt" files!! Make sure that your codes works.
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
