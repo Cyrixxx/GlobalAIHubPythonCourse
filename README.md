@@ -6,16 +6,15 @@
 **Surname:** İleri  
 **Email:** hakan.ileri@outlook.com.tr  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
-
 ## Project Name
-Description of your project.
+1. hw1: Multiply even and odd numbered lists by two and merge them.
+2. hw2: Create 5 CVs in dictionary format and print to screen
+3. hw3: Ask the user for 5 students' middterm, final and project grades, then calculate final grade and print the list from highest grade to lowest.
+4. finalproject: Knowledge competition program with 10 questions. At least 6 questions must be entered correct by the user to be successful. 
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Python 3.x
 ```
 ---
 
